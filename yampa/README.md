@@ -210,6 +210,7 @@ implements the Yampa API.
 * [YampaShooter](https://github.com/werk/YampaShooter): Top-down team based networked tank game.
 * [YampaSynth](http://hackage.haskell.org/package/YampaSynth): Software synthesizer.
 * [YFrob](hackage.haskell.org/package/YFrob): Yampa-based library for programming robots.
+* [Game Of Life](https://github.com/Poselsky/Yampa-Game-Of-Life): Yampa-based game powered by SDL2 and OpenGL.
 
 A more comprehensive list can be obtained using the reverse dependency finder
 (http://packdeps.haskellers.com/reverse/Yampa), but only programs uploaded to
